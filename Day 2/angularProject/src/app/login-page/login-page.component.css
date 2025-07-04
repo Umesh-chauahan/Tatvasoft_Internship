@@ -10,7 +10,7 @@
 
 /* Login card container */
 .container {
-  background-color: #ffffff;
+  background-color: #070707;
   padding: 40px 30px;
   border-radius: 12px;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ input[type="password"] {
 
 input[type="text"]:focus,
 input[type="password"]:focus {
-  border-color: #007bff;
+  border-color: #1eff00;
   background-color: #fff;
   outline: none;
 }
@@ -49,7 +49,7 @@ button {
   width: 100%;
   padding: 12px;
   font-size: 16px;
-  background-color: #007bff;
+  background-color: #00ff15;
   color: white;
   border: none;
   border-radius: 8px;
@@ -58,5 +58,5 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #006310;
 }
